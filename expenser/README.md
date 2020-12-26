@@ -1,6 +1,6 @@
 # expenser
 
-A new Flutter project.
+A Flutter Project to keep track of your expenses.
 
 ## Getting Started
 
